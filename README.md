@@ -1,3 +1,14 @@
+# movieapp
+Making movieapp with react
+<hr/>
+<h2>초기화면</h2>
+평점이 9가 넘고 year순으로 정렬된 영화들이 출력됩니다.
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/62545246/149970268-8e8c7c6c-adda-493a-8612-aac4e70fa2db.PNG">
+<h2>영화 제목 클릭시 화면</h2>
+영화의 제목을 클릭하면 영화와 관련된 url과 자세한 설명을 볼 수 있습니다.
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/62545246/149970281-988f7ff9-27b8-41ae-91bc-abfa799af836.PNG">
+
+<hr/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
