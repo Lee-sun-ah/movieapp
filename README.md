@@ -9,6 +9,7 @@ Making movieapp with react
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/62545246/149970281-988f7ff9-27b8-41ae-91bc-abfa799af836.PNG">
 
 <hr/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
